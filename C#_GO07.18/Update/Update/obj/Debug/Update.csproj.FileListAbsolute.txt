@@ -1,0 +1,9 @@
+C:\Users\atsuy\Desktop\C#_GO12.29\Update\Update\bin\Debug\Update.exe.config
+C:\Users\atsuy\Desktop\C#_GO12.29\Update\Update\bin\Debug\Update.exe
+C:\Users\atsuy\Desktop\C#_GO12.29\Update\Update\bin\Debug\Update.pdb
+C:\Users\atsuy\Desktop\C#_GO12.29\Update\Update\obj\Debug\Update.Form1.resources
+C:\Users\atsuy\Desktop\C#_GO12.29\Update\Update\obj\Debug\Update.Properties.Resources.resources
+C:\Users\atsuy\Desktop\C#_GO12.29\Update\Update\obj\Debug\Update.csproj.GenerateResource.Cache
+C:\Users\atsuy\Desktop\C#_GO12.29\Update\Update\obj\Debug\Update.exe
+C:\Users\atsuy\Desktop\C#_GO12.29\Update\Update\obj\Debug\Update.pdb
+C:\Users\atsuy\Desktop\C#_GO12.29\Update\Update\obj\Debug\Update.csprojResolveAssemblyReference.cache

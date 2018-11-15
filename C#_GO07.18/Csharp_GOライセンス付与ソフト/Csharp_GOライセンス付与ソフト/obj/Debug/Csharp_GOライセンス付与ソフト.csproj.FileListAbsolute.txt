@@ -1,0 +1,9 @@
+C:\Users\Mogami\AppData\Local\Temporary Projects\Csharp_GOライセンス付与ソフト\bin\Debug\Csharp_GOライセンス付与ソフト.exe.config
+C:\Users\Mogami\AppData\Local\Temporary Projects\Csharp_GOライセンス付与ソフト\bin\Debug\Csharp_GOライセンス付与ソフト.exe
+C:\Users\Mogami\AppData\Local\Temporary Projects\Csharp_GOライセンス付与ソフト\bin\Debug\Csharp_GOライセンス付与ソフト.pdb
+C:\Users\Mogami\AppData\Local\Temporary Projects\Csharp_GOライセンス付与ソフト\obj\Debug\Csharp_GOライセンス付与ソフト.csprojResolveAssemblyReference.cache
+C:\Users\Mogami\AppData\Local\Temporary Projects\Csharp_GOライセンス付与ソフト\obj\Debug\Csharp_GOライセンス付与ソフト.Form1.resources
+C:\Users\Mogami\AppData\Local\Temporary Projects\Csharp_GOライセンス付与ソフト\obj\Debug\Csharp_GOライセンス付与ソフト.Properties.Resources.resources
+C:\Users\Mogami\AppData\Local\Temporary Projects\Csharp_GOライセンス付与ソフト\obj\Debug\Csharp_GOライセンス付与ソフト.csproj.GenerateResource.Cache
+C:\Users\Mogami\AppData\Local\Temporary Projects\Csharp_GOライセンス付与ソフト\obj\Debug\Csharp_GOライセンス付与ソフト.exe
+C:\Users\Mogami\AppData\Local\Temporary Projects\Csharp_GOライセンス付与ソフト\obj\Debug\Csharp_GOライセンス付与ソフト.pdb

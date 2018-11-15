@@ -1,0 +1,18 @@
+C:\Users\atsuy\AppData\Local\Temporary Projects\testArduino\bin\Debug\testArduino.exe.config
+C:\Users\atsuy\AppData\Local\Temporary Projects\testArduino\bin\Debug\testArduino.exe
+C:\Users\atsuy\AppData\Local\Temporary Projects\testArduino\bin\Debug\testArduino.pdb
+C:\Users\atsuy\AppData\Local\Temporary Projects\testArduino\obj\Debug\testArduino.csprojResolveAssemblyReference.cache
+C:\Users\atsuy\AppData\Local\Temporary Projects\testArduino\obj\Debug\testArduino.Form1.resources
+C:\Users\atsuy\AppData\Local\Temporary Projects\testArduino\obj\Debug\testArduino.Properties.Resources.resources
+C:\Users\atsuy\AppData\Local\Temporary Projects\testArduino\obj\Debug\testArduino.csproj.GenerateResource.Cache
+C:\Users\atsuy\AppData\Local\Temporary Projects\testArduino\obj\Debug\testArduino.exe
+C:\Users\atsuy\AppData\Local\Temporary Projects\testArduino\obj\Debug\testArduino.pdb
+F:\C#_GO05.24\testArduino\testArduino\bin\Debug\testArduino.exe.config
+F:\C#_GO05.24\testArduino\testArduino\bin\Debug\testArduino.exe
+F:\C#_GO05.24\testArduino\testArduino\bin\Debug\testArduino.pdb
+F:\C#_GO05.24\testArduino\testArduino\obj\Debug\testArduino.csprojResolveAssemblyReference.cache
+F:\C#_GO05.24\testArduino\testArduino\obj\Debug\testArduino.Form1.resources
+F:\C#_GO05.24\testArduino\testArduino\obj\Debug\testArduino.Properties.Resources.resources
+F:\C#_GO05.24\testArduino\testArduino\obj\Debug\testArduino.csproj.GenerateResource.Cache
+F:\C#_GO05.24\testArduino\testArduino\obj\Debug\testArduino.exe
+F:\C#_GO05.24\testArduino\testArduino\obj\Debug\testArduino.pdb

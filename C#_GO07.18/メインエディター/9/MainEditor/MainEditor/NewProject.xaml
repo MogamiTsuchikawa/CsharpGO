@@ -1,0 +1,82 @@
+﻿<Window x:Class="MainEditor.NewProject"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MainEditor"
+        mc:Ignorable="d"
+        Title="NewProject" Height="224.701" Width="300" Loaded="Window_Loaded">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="15*"/>
+            <RowDefinition Height="25"/>
+            <RowDefinition Height="25*"/>
+            <RowDefinition Height="208*"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="96*"/>
+                <ColumnDefinition Width="199*"/>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0">
+                <Label Content="Project名" HorizontalAlignment="Center"></Label>
+            </Grid>
+            <Grid Grid.Column="1">
+                <TextBox Name="textBox1"/>
+            </Grid>
+        </Grid>
+        <Grid Grid.Row="3" Margin="0,0,0,0.5">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="295"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="25"/>
+                <RowDefinition Height="25"/>
+                <RowDefinition Height="25.5"/>
+                <RowDefinition/>
+                <RowDefinition Height="37"/>
+            </Grid.RowDefinitions>
+            <Grid Grid.Row="0">
+                <RadioButton Content="Desktop" Name="Desktop" GroupName="A" IsChecked="True" />
+            </Grid>
+            <Grid Grid.Row="1">
+                <RadioButton Content="Documents" Name="Doc" GroupName="A"/>
+            </Grid>
+            <Grid Grid.Row="2">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="1*"/>
+                </Grid.ColumnDefinitions>
+                <Grid Grid.Column="0">
+                    <RadioButton Name="Forms" Content="Forms" GroupName="B" IsChecked="True" />
+                </Grid>
+                <Grid Grid.Column="1">
+                    <RadioButton Name="Console" Content="Console" GroupName="B"/>
+                </Grid>
+                <Grid Grid.Column="2">
+                    <RadioButton Name="WPF" Content="WPF" GroupName="B" />
+                </Grid>
+            </Grid>
+            <Grid Grid.Row="3">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Grid Grid.Column="0" IsEnabled="False">
+                    <RadioButton Name="IotA" Content="Iot(A) (未実装)" GroupName="B" />
+                </Grid>
+                <Grid Grid.Column="1">
+
+                </Grid>
+                <Grid Grid.Column="2">
+
+                </Grid>
+            </Grid>
+            <Grid Grid.Row="4">
+                <Button Name="Run" Content="作成" Click="Run_Click" />
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>

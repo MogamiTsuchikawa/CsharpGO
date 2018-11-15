@@ -1,0 +1,52 @@
+﻿<Window x:Class="MainEditor.ProjectM"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MainEditor"
+        mc:Ignorable="d"
+        Title="プロジェクトマネージャー" Height="300" Width="300">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="59*"/>
+            <ColumnDefinition Width="9*"/>
+            <ColumnDefinition Width="160"/>
+        </Grid.ColumnDefinitions>
+        <Grid Grid.Column="0" Margin="0,0,0,0.5">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="119*"/>
+                <RowDefinition Height="34"/>
+                <RowDefinition Height="14*"/>
+                <RowDefinition Height="34"/>
+                <RowDefinition Height="14*"/>
+                <RowDefinition Height="34"/>
+                <RowDefinition Height="24*"/>
+            </Grid.RowDefinitions>
+            <Grid Grid.Row="1">
+                <Button Name="NewProject" Content="新規プロジェクト" Click="NewProject_Click"/>
+            </Grid>
+            <Grid Grid.Row="3">
+                <Button Name="OpenProject" Content="プロジェクトを開く" Click="OpenProject_Click"/>
+            </Grid>
+            <Grid Grid.Row="5">
+                <Button Name="Help" Content="HELP"/>
+            </Grid>
+
+        </Grid>
+        <Grid Grid.Column="2">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="7*"/>
+                <RowDefinition Height="160"/>
+                <RowDefinition Height="59*"/>
+            </Grid.RowDefinitions>
+            <Grid Grid.Row="1">
+                <Image Source="8e2c5c4993a0beec4789a06befdf78b9_xxo.ico"/>
+            </Grid>
+
+
+        </Grid>
+
+
+
+    </Grid>
+</Window>

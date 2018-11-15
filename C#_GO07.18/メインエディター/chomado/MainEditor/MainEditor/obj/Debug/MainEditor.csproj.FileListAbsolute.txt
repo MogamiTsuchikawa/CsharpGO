@@ -1,0 +1,59 @@
+C:\Users\atsuy\AppData\Local\Temporary Projects\MainEditor\bin\Debug\MainEditor.exe.config
+C:\Users\atsuy\Documents\Visual Studio 2015\Projects\MainEditor\MainEditor\bin\Debug\MainEditor.exe.config
+C:\Users\atsuy\Documents\Visual Studio 2015\Projects\MainEditor\MainEditor\bin\Debug\MainEditor.exe
+C:\Users\atsuy\Documents\Visual Studio 2015\Projects\MainEditor\MainEditor\bin\Debug\MainEditor.pdb
+C:\Users\atsuy\Documents\Visual Studio 2015\Projects\MainEditor\MainEditor\bin\Debug\Azuki.dll
+C:\Users\atsuy\Documents\Visual Studio 2015\Projects\MainEditor\MainEditor\bin\Debug\Azuki.xml
+C:\Users\atsuy\Documents\Visual Studio 2015\Projects\MainEditor\MainEditor\obj\Debug\MainEditor.csprojResolveAssemblyReference.cache
+C:\Users\atsuy\Documents\Visual Studio 2015\Projects\MainEditor\MainEditor\obj\Debug\MainEditor.Form1.resources
+C:\Users\atsuy\Documents\Visual Studio 2015\Projects\MainEditor\MainEditor\obj\Debug\MainEditor.Properties.Resources.resources
+C:\Users\atsuy\Documents\Visual Studio 2015\Projects\MainEditor\MainEditor\obj\Debug\MainEditor.csproj.GenerateResource.Cache
+C:\Users\atsuy\Documents\Visual Studio 2015\Projects\MainEditor\MainEditor\obj\Debug\MainEditor.exe
+C:\Users\atsuy\Documents\Visual Studio 2015\Projects\MainEditor\MainEditor\obj\Debug\MainEditor.pdb
+D:\Desktop\VisualStudio\Project\PortableC#\メインエディター\1\MainEditor\MainEditor\bin\Debug\MainEditor.exe.config
+D:\Desktop\VisualStudio\Project\PortableC#\メインエディター\1\MainEditor\MainEditor\obj\Debug\MainEditor.exe
+D:\Desktop\VisualStudio\Project\PortableC#\メインエディター\1\MainEditor\MainEditor\obj\Debug\MainEditor.pdb
+D:\Desktop\VisualStudio\Project\PortableC#\メインエディター\1\MainEditor\MainEditor\bin\Debug\MainEditor.exe
+D:\Desktop\VisualStudio\Project\PortableC#\メインエディター\1\MainEditor\MainEditor\bin\Debug\MainEditor.pdb
+D:\Desktop\VisualStudio\Project\PortableC#\メインエディター\1\MainEditor\MainEditor\bin\Debug\Azuki.xml
+D:\Desktop\VisualStudio\Project\PortableC#\メインエディター\1\MainEditor\MainEditor\obj\Debug\MainEditor.csprojResolveAssemblyReference.cache
+D:\Desktop\VisualStudio\Project\PortableC#\メインエディター\1\MainEditor\MainEditor\obj\Debug\MainEditor.Form1.resources
+D:\Desktop\VisualStudio\Project\PortableC#\メインエディター\1\MainEditor\MainEditor\obj\Debug\MainEditor.Properties.Resources.resources
+D:\Desktop\VisualStudio\Project\PortableC#\メインエディター\1\MainEditor\MainEditor\obj\Debug\MainEditor.csproj.GenerateResource.Cache
+D:\Desktop\VisualStudio\Project\PortableC#\メインエディター\2\MainEditor\MainEditor\bin\Debug\MainEditor.exe.config
+D:\Desktop\VisualStudio\Project\PortableC#\メインエディター\2\MainEditor\MainEditor\obj\Debug\MainEditor.exe
+D:\Desktop\VisualStudio\Project\PortableC#\メインエディター\2\MainEditor\MainEditor\obj\Debug\MainEditor.pdb
+D:\Desktop\VisualStudio\Project\PortableC#\メインエディター\2\MainEditor\MainEditor\bin\Debug\MainEditor.exe
+D:\Desktop\VisualStudio\Project\PortableC#\メインエディター\2\MainEditor\MainEditor\bin\Debug\MainEditor.pdb
+D:\Desktop\VisualStudio\Project\PortableC#\メインエディター\2\MainEditor\MainEditor\bin\Debug\Azuki.xml
+D:\Desktop\VisualStudio\Project\PortableC#\メインエディター\2\MainEditor\MainEditor\obj\Debug\MainEditor.csprojResolveAssemblyReference.cache
+D:\Desktop\VisualStudio\Project\PortableC#\メインエディター\2\MainEditor\MainEditor\obj\Debug\MainEditor.Form1.resources
+D:\Desktop\VisualStudio\Project\PortableC#\メインエディター\2\MainEditor\MainEditor\obj\Debug\MainEditor.Properties.Resources.resources
+D:\Desktop\VisualStudio\Project\PortableC#\メインエディター\2\MainEditor\MainEditor\obj\Debug\MainEditor.csproj.GenerateResource.Cache
+D:\Desktop\VisualStudio\Project\PortableC#\メインエディター\2\MainEditor\MainEditor\obj\Debug\MainEditor.Project設定.resources
+D:\Desktop\VisualStudio\Project\PortableC#\メインエディター\2\MainEditor\MainEditor\obj\Debug\MainEditor.AddClass.resources
+D:\Desktop\VisualStudio\Project\PortableC#\メインエディター\2\MainEditor\MainEditor\obj\Debug\MainEditor.AddForm.resources
+C:\Users\atsuy\Desktop\VisualStudio\Project\PortableC#\メインエディター\2\MainEditor\MainEditor\bin\Debug\MainEditor.exe.config
+C:\Users\atsuy\Desktop\VisualStudio\Project\PortableC#\メインエディター\2\MainEditor\MainEditor\obj\Debug\MainEditor.exe
+C:\Users\atsuy\Desktop\VisualStudio\Project\PortableC#\メインエディター\2\MainEditor\MainEditor\obj\Debug\MainEditor.pdb
+C:\Users\atsuy\Desktop\VisualStudio\Project\PortableC#\メインエディター\2\MainEditor\MainEditor\bin\Debug\MainEditor.exe
+C:\Users\atsuy\Desktop\VisualStudio\Project\PortableC#\メインエディター\2\MainEditor\MainEditor\bin\Debug\MainEditor.pdb
+C:\Users\atsuy\Desktop\VisualStudio\Project\PortableC#\メインエディター\2\MainEditor\MainEditor\bin\Debug\Azuki.xml
+C:\Users\atsuy\Desktop\VisualStudio\Project\PortableC#\メインエディター\2\MainEditor\MainEditor\obj\Debug\MainEditor.csprojResolveAssemblyReference.cache
+C:\Users\atsuy\Desktop\VisualStudio\Project\PortableC#\メインエディター\2\MainEditor\MainEditor\obj\Debug\MainEditor.AddClass.resources
+C:\Users\atsuy\Desktop\VisualStudio\Project\PortableC#\メインエディター\2\MainEditor\MainEditor\obj\Debug\MainEditor.AddForm.resources
+C:\Users\atsuy\Desktop\VisualStudio\Project\PortableC#\メインエディター\2\MainEditor\MainEditor\obj\Debug\MainEditor.Form1.resources
+C:\Users\atsuy\Desktop\VisualStudio\Project\PortableC#\メインエディター\2\MainEditor\MainEditor\obj\Debug\MainEditor.Project設定.resources
+C:\Users\atsuy\Desktop\VisualStudio\Project\PortableC#\メインエディター\2\MainEditor\MainEditor\obj\Debug\MainEditor.Properties.Resources.resources
+C:\Users\atsuy\Desktop\VisualStudio\Project\PortableC#\メインエディター\2\MainEditor\MainEditor\obj\Debug\MainEditor.csproj.GenerateResource.Cache
+H:\VisualStudio\Project\PortableC#\メインエディター\chomado\MainEditor\MainEditor\bin\Debug\MainEditor.exe.config
+H:\VisualStudio\Project\PortableC#\メインエディター\chomado\MainEditor\MainEditor\obj\Debug\MainEditor.exe
+H:\VisualStudio\Project\PortableC#\メインエディター\chomado\MainEditor\MainEditor\obj\Debug\MainEditor.pdb
+H:\VisualStudio\Project\PortableC#\メインエディター\chomado\MainEditor\MainEditor\bin\Debug\MainEditor.exe
+H:\VisualStudio\Project\PortableC#\メインエディター\chomado\MainEditor\MainEditor\bin\Debug\MainEditor.pdb
+H:\VisualStudio\Project\PortableC#\メインエディター\chomado\MainEditor\MainEditor\obj\Debug\MainEditor.AddClass.resources
+H:\VisualStudio\Project\PortableC#\メインエディター\chomado\MainEditor\MainEditor\obj\Debug\MainEditor.AddForm.resources
+H:\VisualStudio\Project\PortableC#\メインエディター\chomado\MainEditor\MainEditor\obj\Debug\MainEditor.Form1.resources
+H:\VisualStudio\Project\PortableC#\メインエディター\chomado\MainEditor\MainEditor\obj\Debug\MainEditor.Project設定.resources
+H:\VisualStudio\Project\PortableC#\メインエディター\chomado\MainEditor\MainEditor\obj\Debug\MainEditor.Properties.Resources.resources
+H:\VisualStudio\Project\PortableC#\メインエディター\chomado\MainEditor\MainEditor\obj\Debug\MainEditor.csproj.GenerateResource.Cache

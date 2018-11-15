@@ -1,0 +1,107 @@
+C:\Users\atsuy\AppData\Local\Temporary Projects\GUIbuildTest1\bin\Debug\GUIbuildTest1.exe.config
+C:\Users\atsuy\Desktop\Project\GUIbuildTest1\GUIbuildTest1\bin\Debug\GUIbuildTest1.exe.config
+C:\Users\atsuy\Desktop\Project\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.exe
+C:\Users\atsuy\Desktop\Project\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.pdb
+C:\Users\atsuy\Desktop\Project\GUIbuildTest1\GUIbuildTest1\bin\Debug\GUIbuildTest1.exe
+C:\Users\atsuy\Desktop\Project\GUIbuildTest1\GUIbuildTest1\bin\Debug\GUIbuildTest1.pdb
+C:\Users\atsuy\Desktop\Project\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.csprojResolveAssemblyReference.cache
+C:\Users\atsuy\Desktop\Project\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.Form1.resources
+C:\Users\atsuy\Desktop\Project\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.Form2.resources
+C:\Users\atsuy\Desktop\Project\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.Properties.Resources.resources
+C:\Users\atsuy\Desktop\Project\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.csproj.GenerateResource.Cache
+D:\Desktop\GUIbuildTest1\GUIbuildTest1\bin\Debug\GUIbuildTest1.exe.config
+D:\Desktop\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.exe
+D:\Desktop\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.pdb
+D:\Desktop\GUIbuildTest1\GUIbuildTest1\bin\Debug\GUIbuildTest1.exe
+D:\Desktop\GUIbuildTest1\GUIbuildTest1\bin\Debug\GUIbuildTest1.pdb
+D:\Desktop\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.csprojResolveAssemblyReference.cache
+D:\Desktop\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.Form1.resources
+D:\Desktop\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.Form2.resources
+D:\Desktop\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.Properties.Resources.resources
+D:\Desktop\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.csproj.GenerateResource.Cache
+D:\Doc\Visual Studio 2015\Projects\GUIbuildTest1\GUIbuildTest1\bin\Debug\GUIbuildTest1.exe.config
+D:\Doc\Visual Studio 2015\Projects\GUIbuildTest1\GUIbuildTest1\bin\Debug\GUIbuildTest1.exe
+D:\Doc\Visual Studio 2015\Projects\GUIbuildTest1\GUIbuildTest1\bin\Debug\GUIbuildTest1.pdb
+D:\Doc\Visual Studio 2015\Projects\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.Form1.resources
+D:\Doc\Visual Studio 2015\Projects\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.Form2.resources
+D:\Doc\Visual Studio 2015\Projects\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.Properties.Resources.resources
+D:\Doc\Visual Studio 2015\Projects\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.csproj.GenerateResource.Cache
+D:\Doc\Visual Studio 2015\Projects\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.exe
+D:\Doc\Visual Studio 2015\Projects\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.pdb
+D:\Doc\Visual Studio 2015\Projects\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.csprojResolveAssemblyReference.cache
+C:\Users\atsuy\OneDrive\VisualStudio\GUIbuildTest1\GUIbuildTest1\bin\Debug\GUIbuildTest1.exe.config
+C:\Users\atsuy\OneDrive\VisualStudio\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.exe
+C:\Users\atsuy\OneDrive\VisualStudio\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.pdb
+C:\Users\atsuy\OneDrive\VisualStudio\GUIbuildTest1\GUIbuildTest1\bin\Debug\GUIbuildTest1.exe
+C:\Users\atsuy\OneDrive\VisualStudio\GUIbuildTest1\GUIbuildTest1\bin\Debug\GUIbuildTest1.pdb
+C:\Users\atsuy\OneDrive\VisualStudio\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.csprojResolveAssemblyReference.cache
+C:\Users\atsuy\OneDrive\VisualStudio\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.Form1.resources
+C:\Users\atsuy\OneDrive\VisualStudio\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.Form2.resources
+C:\Users\atsuy\OneDrive\VisualStudio\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.Properties.Resources.resources
+C:\Users\atsuy\OneDrive\VisualStudio\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.csproj.GenerateResource.Cache
+D:\Onedrive\VisualStudio\GUIbuildTest1\GUIbuildTest1\bin\Debug\GUIbuildTest1.exe.config
+D:\Onedrive\VisualStudio\GUIbuildTest1\GUIbuildTest1\bin\Debug\GUIbuildTest1.exe
+D:\Onedrive\VisualStudio\GUIbuildTest1\GUIbuildTest1\bin\Debug\GUIbuildTest1.pdb
+D:\Onedrive\VisualStudio\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.Form1.resources
+D:\Onedrive\VisualStudio\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.Form2.resources
+D:\Onedrive\VisualStudio\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.Properties.Resources.resources
+D:\Onedrive\VisualStudio\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.csproj.GenerateResource.Cache
+D:\Onedrive\VisualStudio\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.exe
+D:\Onedrive\VisualStudio\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.pdb
+D:\Onedrive\VisualStudio\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.csprojResolveAssemblyReference.cache
+C:\Users\atsuy\Desktop\GUIbuildTest1\GUIbuildTest1\bin\Debug\GUIbuildTest1.exe.config
+C:\Users\atsuy\Desktop\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.exe
+C:\Users\atsuy\Desktop\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.pdb
+C:\Users\atsuy\Desktop\GUIbuildTest1\GUIbuildTest1\bin\Debug\GUIbuildTest1.exe
+C:\Users\atsuy\Desktop\GUIbuildTest1\GUIbuildTest1\bin\Debug\GUIbuildTest1.pdb
+C:\Users\atsuy\Desktop\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.csprojResolveAssemblyReference.cache
+C:\Users\atsuy\Desktop\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.Form1.resources
+C:\Users\atsuy\Desktop\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.Form2.resources
+C:\Users\atsuy\Desktop\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.NewControle.resources
+C:\Users\atsuy\Desktop\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.Properties.Resources.resources
+C:\Users\atsuy\Desktop\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.csproj.GenerateResource.Cache
+D:\Desktop\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.NewControle.resources
+C:\Users\atsuy\Desktop\Project\デザイナー\1\GUIbuildTest1\GUIbuildTest1\bin\Debug\GUIbuildTest1.exe.config
+C:\Users\atsuy\Desktop\Project\デザイナー\1\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.exe
+C:\Users\atsuy\Desktop\Project\デザイナー\1\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.pdb
+C:\Users\atsuy\Desktop\Project\デザイナー\1\GUIbuildTest1\GUIbuildTest1\bin\Debug\GUIbuildTest1.exe
+C:\Users\atsuy\Desktop\Project\デザイナー\1\GUIbuildTest1\GUIbuildTest1\bin\Debug\GUIbuildTest1.pdb
+C:\Users\atsuy\Desktop\Project\デザイナー\1\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.csprojResolveAssemblyReference.cache
+C:\Users\atsuy\Desktop\Project\デザイナー\1\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.Form1.resources
+C:\Users\atsuy\Desktop\Project\デザイナー\1\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.Form2.resources
+C:\Users\atsuy\Desktop\Project\デザイナー\1\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.NewControle.resources
+C:\Users\atsuy\Desktop\Project\デザイナー\1\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.Properties.Resources.resources
+C:\Users\atsuy\Desktop\Project\デザイナー\1\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.csproj.GenerateResource.Cache
+Z:\VisualStudio\Project\PortableC#\デザイナー\1\GUIbuildTest1\GUIbuildTest1\bin\Debug\GUIbuildTest1.exe.config
+Z:\VisualStudio\Project\PortableC#\デザイナー\1\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.exe
+Z:\VisualStudio\Project\PortableC#\デザイナー\1\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.pdb
+Z:\VisualStudio\Project\PortableC#\デザイナー\1\GUIbuildTest1\GUIbuildTest1\bin\Debug\GUIbuildTest1.exe
+Z:\VisualStudio\Project\PortableC#\デザイナー\1\GUIbuildTest1\GUIbuildTest1\bin\Debug\GUIbuildTest1.pdb
+Z:\VisualStudio\Project\PortableC#\デザイナー\1\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.csprojResolveAssemblyReference.cache
+Z:\VisualStudio\Project\PortableC#\デザイナー\1\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.Form1.resources
+Z:\VisualStudio\Project\PortableC#\デザイナー\1\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.Form2.resources
+Z:\VisualStudio\Project\PortableC#\デザイナー\1\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.NewControle.resources
+Z:\VisualStudio\Project\PortableC#\デザイナー\1\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.Properties.Resources.resources
+Z:\VisualStudio\Project\PortableC#\デザイナー\1\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.csproj.GenerateResource.Cache
+C:\Users\atsuy\Desktop\VisualStudio\Project\PortableC#\デザイナー\1\GUIbuildTest1\GUIbuildTest1\bin\Debug\GUIbuildTest1.exe.config
+C:\Users\atsuy\Desktop\VisualStudio\Project\PortableC#\デザイナー\1\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.exe
+C:\Users\atsuy\Desktop\VisualStudio\Project\PortableC#\デザイナー\1\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.pdb
+C:\Users\atsuy\Desktop\VisualStudio\Project\PortableC#\デザイナー\1\GUIbuildTest1\GUIbuildTest1\bin\Debug\GUIbuildTest1.exe
+C:\Users\atsuy\Desktop\VisualStudio\Project\PortableC#\デザイナー\1\GUIbuildTest1\GUIbuildTest1\bin\Debug\GUIbuildTest1.pdb
+C:\Users\atsuy\Desktop\VisualStudio\Project\PortableC#\デザイナー\1\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.csprojResolveAssemblyReference.cache
+C:\Users\atsuy\Desktop\VisualStudio\Project\PortableC#\デザイナー\1\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.Form1.resources
+C:\Users\atsuy\Desktop\VisualStudio\Project\PortableC#\デザイナー\1\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.Form2.resources
+C:\Users\atsuy\Desktop\VisualStudio\Project\PortableC#\デザイナー\1\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.NewControle.resources
+C:\Users\atsuy\Desktop\VisualStudio\Project\PortableC#\デザイナー\1\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.Properties.Resources.resources
+C:\Users\atsuy\Desktop\VisualStudio\Project\PortableC#\デザイナー\1\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.csproj.GenerateResource.Cache
+D:\Desktop\VisualStudio\Project\PortableC#\デザイナー\2\GUIbuildTest1\GUIbuildTest1\bin\Debug\GUIbuildTest1.exe.config
+D:\Desktop\VisualStudio\Project\PortableC#\デザイナー\2\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.exe
+D:\Desktop\VisualStudio\Project\PortableC#\デザイナー\2\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.pdb
+D:\Desktop\VisualStudio\Project\PortableC#\デザイナー\2\GUIbuildTest1\GUIbuildTest1\bin\Debug\GUIbuildTest1.exe
+D:\Desktop\VisualStudio\Project\PortableC#\デザイナー\2\GUIbuildTest1\GUIbuildTest1\bin\Debug\GUIbuildTest1.pdb
+D:\Desktop\VisualStudio\Project\PortableC#\デザイナー\2\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.csprojResolveAssemblyReference.cache
+D:\Desktop\VisualStudio\Project\PortableC#\デザイナー\2\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.Form1.resources
+D:\Desktop\VisualStudio\Project\PortableC#\デザイナー\2\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.Form2.resources
+D:\Desktop\VisualStudio\Project\PortableC#\デザイナー\2\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.NewControle.resources
+D:\Desktop\VisualStudio\Project\PortableC#\デザイナー\2\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.Properties.Resources.resources
+D:\Desktop\VisualStudio\Project\PortableC#\デザイナー\2\GUIbuildTest1\GUIbuildTest1\obj\Debug\GUIbuildTest1.csproj.GenerateResource.Cache

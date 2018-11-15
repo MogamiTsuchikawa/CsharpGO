@@ -1,0 +1,1 @@
+MainEditor.exe D:\Desktop\VisualStudio\Project\PortableC#\メインエディター\1\MainEditor\MainEditor\bin\Debug\Test\ProjectInfo.projectt

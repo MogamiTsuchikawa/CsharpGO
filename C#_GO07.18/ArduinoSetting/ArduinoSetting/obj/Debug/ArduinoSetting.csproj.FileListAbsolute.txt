@@ -1,0 +1,28 @@
+C:\Users\atsuy\AppData\Local\Temporary Projects\ArduinoSetting\bin\Debug\ArduinoSetting.exe.config
+C:\Users\atsuy\AppData\Local\Temporary Projects\ArduinoSetting\bin\Debug\ArduinoSetting.exe
+C:\Users\atsuy\AppData\Local\Temporary Projects\ArduinoSetting\bin\Debug\ArduinoSetting.pdb
+C:\Users\atsuy\AppData\Local\Temporary Projects\ArduinoSetting\obj\Debug\ArduinoSetting.csprojResolveAssemblyReference.cache
+C:\Users\atsuy\AppData\Local\Temporary Projects\ArduinoSetting\obj\Debug\MainWindow.g.cs
+C:\Users\atsuy\AppData\Local\Temporary Projects\ArduinoSetting\obj\Debug\App.g.cs
+C:\Users\atsuy\AppData\Local\Temporary Projects\ArduinoSetting\obj\Debug\ArduinoSetting_MarkupCompile.cache
+C:\Users\atsuy\AppData\Local\Temporary Projects\ArduinoSetting\obj\Debug\ArduinoSetting_MarkupCompile.lref
+C:\Users\atsuy\AppData\Local\Temporary Projects\ArduinoSetting\obj\Debug\MainWindow.baml
+C:\Users\atsuy\AppData\Local\Temporary Projects\ArduinoSetting\obj\Debug\ArduinoSetting.g.resources
+C:\Users\atsuy\AppData\Local\Temporary Projects\ArduinoSetting\obj\Debug\ArduinoSetting.Properties.Resources.resources
+C:\Users\atsuy\AppData\Local\Temporary Projects\ArduinoSetting\obj\Debug\ArduinoSetting.csproj.GenerateResource.Cache
+C:\Users\atsuy\AppData\Local\Temporary Projects\ArduinoSetting\obj\Debug\ArduinoSetting.exe
+C:\Users\atsuy\AppData\Local\Temporary Projects\ArduinoSetting\obj\Debug\ArduinoSetting.pdb
+G:\C#_GO05.26\ArduinoSetting\ArduinoSetting\bin\Debug\ArduinoSetting.exe.config
+G:\C#_GO05.26\ArduinoSetting\ArduinoSetting\bin\Debug\ArduinoSetting.exe
+G:\C#_GO05.26\ArduinoSetting\ArduinoSetting\bin\Debug\ArduinoSetting.pdb
+G:\C#_GO05.26\ArduinoSetting\ArduinoSetting\obj\Debug\ArduinoSetting.csprojResolveAssemblyReference.cache
+G:\C#_GO05.26\ArduinoSetting\ArduinoSetting\obj\Debug\MainWindow.g.cs
+G:\C#_GO05.26\ArduinoSetting\ArduinoSetting\obj\Debug\App.g.cs
+G:\C#_GO05.26\ArduinoSetting\ArduinoSetting\obj\Debug\ArduinoSetting_MarkupCompile.cache
+G:\C#_GO05.26\ArduinoSetting\ArduinoSetting\obj\Debug\ArduinoSetting_MarkupCompile.lref
+G:\C#_GO05.26\ArduinoSetting\ArduinoSetting\obj\Debug\MainWindow.baml
+G:\C#_GO05.26\ArduinoSetting\ArduinoSetting\obj\Debug\ArduinoSetting.g.resources
+G:\C#_GO05.26\ArduinoSetting\ArduinoSetting\obj\Debug\ArduinoSetting.Properties.Resources.resources
+G:\C#_GO05.26\ArduinoSetting\ArduinoSetting\obj\Debug\ArduinoSetting.csproj.GenerateResource.Cache
+G:\C#_GO05.26\ArduinoSetting\ArduinoSetting\obj\Debug\ArduinoSetting.exe
+G:\C#_GO05.26\ArduinoSetting\ArduinoSetting\obj\Debug\ArduinoSetting.pdb

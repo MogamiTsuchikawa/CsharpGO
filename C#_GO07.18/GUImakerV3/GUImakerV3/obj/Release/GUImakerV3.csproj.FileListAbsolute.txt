@@ -1,0 +1,8 @@
+D:\Desktop\C#_GOguitソースコード改良版\GUImakerV3\GUImakerV3\bin\Release\GUImakerV3.exe.config
+D:\Desktop\C#_GOguitソースコード改良版\GUImakerV3\GUImakerV3\obj\Release\GUImakerV3.AddControles.resources
+D:\Desktop\C#_GOguitソースコード改良版\GUImakerV3\GUImakerV3\obj\Release\GUImakerV3.AddControlesSetting.resources
+D:\Desktop\C#_GOguitソースコード改良版\GUImakerV3\GUImakerV3\obj\Release\GUImakerV3.AddEvents.resources
+D:\Desktop\C#_GOguitソースコード改良版\GUImakerV3\GUImakerV3\obj\Release\GUImakerV3.Form1.resources
+D:\Desktop\C#_GOguitソースコード改良版\GUImakerV3\GUImakerV3\obj\Release\GUImakerV3.Form2.resources
+D:\Desktop\C#_GOguitソースコード改良版\GUImakerV3\GUImakerV3\obj\Release\GUImakerV3.Properties.Resources.resources
+D:\Desktop\C#_GOguitソースコード改良版\GUImakerV3\GUImakerV3\obj\Release\GUImakerV3.csproj.GenerateResource.Cache

@@ -1,0 +1,56 @@
+﻿<Window x:Class="ArduinoSetting.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ArduinoSetting"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="400" Width="550" Loaded="Window_Loaded">
+    <Grid>
+        <ComboBox x:Name="ArduinoType" HorizontalAlignment="Left" Margin="104,14,0,0" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Arduinoタイプ" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+        <Label Content="COM" HorizontalAlignment="Left" Margin="242,10,0,0" VerticalAlignment="Top"/>
+        <ComboBox x:Name="com" HorizontalAlignment="Left" Margin="284,14,0,0" VerticalAlignment="Top" Width="120"/>
+        <CheckBox x:Name="d2" Content="2" HorizontalAlignment="Left" Margin="10,67,0,0" VerticalAlignment="Top"/>
+        <Label Content="デジタル" HorizontalAlignment="Left" Margin="10,36,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="d3" Content="3" HorizontalAlignment="Left" Margin="10,87,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="d4" Content="4" HorizontalAlignment="Left" Margin="10,107,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="d5" Content="5" HorizontalAlignment="Left" Margin="10,127,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="d6" Content="6" HorizontalAlignment="Left" Margin="10,147,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="d7" Content="7" HorizontalAlignment="Left" Margin="10,167,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="d8" Content="8" HorizontalAlignment="Left" Margin="10,187,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="d9" Content="9" HorizontalAlignment="Left" Margin="10,207,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="d10" Content="10" HorizontalAlignment="Left" Margin="10,227,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="d11" Content="11" HorizontalAlignment="Left" Margin="10,247,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="d12" Content="12" HorizontalAlignment="Left" Margin="10,267,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="d13" Content="13" HorizontalAlignment="Left" Margin="10,287,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.492,0.038"/>
+        <RadioButton x:Name="d2out" Content="出力" HorizontalAlignment="Left" Margin="41,67,0,0" VerticalAlignment="Top" IsChecked="True" GroupName="d2"/>
+        <RadioButton x:Name="d2in" Content="入力" HorizontalAlignment="Left" Margin="97,67,0,0" VerticalAlignment="Top" GroupName="d2"/>
+        <RadioButton x:Name="d3out" Content="出力" HorizontalAlignment="Left" Margin="41,87,0,0" VerticalAlignment="Top" IsChecked="True" GroupName="d3"/>
+        <RadioButton x:Name="d3in" Content="入力" HorizontalAlignment="Left" Margin="97,87,0,0" VerticalAlignment="Top" GroupName="d3"/>
+        <RadioButton x:Name="d4out" Content="出力" HorizontalAlignment="Left" Margin="41,107,0,0" VerticalAlignment="Top" IsChecked="True" GroupName="d4"/>
+        <RadioButton x:Name="d4in" Content="入力" HorizontalAlignment="Left" Margin="97,107,0,0" VerticalAlignment="Top" GroupName="d4"/>
+        <RadioButton x:Name="d5out" Content="出力" HorizontalAlignment="Left" Margin="41,127,0,0" VerticalAlignment="Top" GroupName="d5" IsChecked="True"/>
+        <RadioButton x:Name="d5in" Content="入力" HorizontalAlignment="Left" Margin="97,127,0,0" VerticalAlignment="Top" GroupName="d5"/>
+        <RadioButton x:Name="d6out" Content="出力" HorizontalAlignment="Left" Margin="41,147,0,0" VerticalAlignment="Top" GroupName="d6" IsChecked="True"/>
+        <RadioButton x:Name="d6in" Content="入力" HorizontalAlignment="Left" Margin="97,147,0,0" VerticalAlignment="Top" GroupName="d6"/>
+        <RadioButton x:Name="d7out" Content="出力" HorizontalAlignment="Left" Margin="41,167,0,0" VerticalAlignment="Top" GroupName="d7" IsChecked="True"/>
+        <RadioButton x:Name="d7in" Content="入力" HorizontalAlignment="Left" Margin="97,167,0,0" VerticalAlignment="Top" GroupName="d7"/>
+        <RadioButton x:Name="d8out" Content="出力" HorizontalAlignment="Left" Margin="41,187,0,0" VerticalAlignment="Top" GroupName="d8" IsChecked="True"/>
+        <RadioButton x:Name="d8in" Content="入力" HorizontalAlignment="Left" Margin="97,187,0,0" VerticalAlignment="Top" GroupName="d8"/>
+        <RadioButton x:Name="d9out" Content="出力" HorizontalAlignment="Left" Margin="41,207,0,0" VerticalAlignment="Top" GroupName="d9" IsChecked="True"/>
+        <RadioButton x:Name="d9in" Content="入力" HorizontalAlignment="Left" Margin="97,207,0,0" VerticalAlignment="Top" GroupName="d9"/>
+        <RadioButton x:Name="d10out" Content="出力" HorizontalAlignment="Left" Margin="41,227,0,0" VerticalAlignment="Top" GroupName="d10" IsChecked="True"/>
+        <RadioButton x:Name="d10in" Content="入力" HorizontalAlignment="Left" Margin="97,227,0,0" VerticalAlignment="Top" GroupName="d10"/>
+        <RadioButton x:Name="d11out" Content="出力" HorizontalAlignment="Left" Margin="41,247,0,0" VerticalAlignment="Top" GroupName="d11" IsChecked="True"/>
+        <RadioButton x:Name="d11in" Content="入力" HorizontalAlignment="Left" Margin="97,247,0,0" VerticalAlignment="Top" GroupName="d11"/>
+        <RadioButton x:Name="d12out" Content="出力" HorizontalAlignment="Left" Margin="41,267,0,0" VerticalAlignment="Top" GroupName="d12" IsChecked="True"/>
+        <RadioButton x:Name="d12in" Content="入力" HorizontalAlignment="Left" Margin="97,267,0,0" VerticalAlignment="Top" GroupName="d12"/>
+        <RadioButton x:Name="d13out" Content="出力" HorizontalAlignment="Left" Margin="41,287,0,0" VerticalAlignment="Top" GroupName="d13" IsChecked="True"/>
+        <RadioButton x:Name="d13in" Content="入力" HorizontalAlignment="Left" Margin="97,287,0,0" VerticalAlignment="Top" GroupName="d13"/>
+        <Button Content="書き込み" HorizontalAlignment="Left" Margin="457,339,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+        <Button Content="保存" HorizontalAlignment="Left" Margin="378,339,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button Content="開く" HorizontalAlignment="Left" Margin="298,339,0,0" VerticalAlignment="Top" Width="75"/>
+
+    </Grid>
+</Window>
